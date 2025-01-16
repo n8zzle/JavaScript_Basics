@@ -78,4 +78,4 @@ function sumSalaries(department) {
     return sum;
   }
 }
-sumSalaries(company);
+console.log(sumSalaries(company));
